@@ -1,6 +1,6 @@
 ***Note Taker App***
 
-Beginning with the provided class code, this code implements a simple note-taker app that allows
+Beginning with the code provided in class, this code implements a simple note-taker app that allows
 the user to enter new notes and to display the numbered notes. Blank note entry is disallowed.
 
 *Key dfferences from teacher implementation*
